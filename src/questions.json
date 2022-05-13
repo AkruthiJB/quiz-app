@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "question": "What command is used to start the React local development server??",
+        "questionType": "radio",
+        "answerOptions": [
+            { "option": "npm build", "isCorrect": false },
+            { "option": "npm start", "isCorrect": true },
+            { "option": "npm serve", "isCorrect": false },
+            { "option": "npm run dev", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "hat are the variable scopes available in TypeScript?",
+        "questionType": "checkbox",
+        "answerOptions": [
+            { "option": "Global Scope", "isCorrect": true },
+            { "option": "Class Scope", "isCorrect": true },
+            { "option": "Local Scope", "isCorrect": true },
+            { "option": "public scope", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Props are  ______ into other components",
+        "questionType": "textInput",
+        "answerOptions": [{ "option": "methods", "isCorrect": true }]
+    },
+    {
+        "id": 4,
+        "question": "Which operator can be used to conditionally render a React component?",
+        "questionType": "radio",
+        "answerOptions": [
+            { "option": "&&", "isCorrect": true },
+            { "option": "::", "isCorrect": false },
+            { "option": "??", "isCorrect": false },
+            { "option": "||", "isCorrect": false }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "To develop and run React code, Node.js is required.",
+        "questionType": "radio",
+        "answerOptions": [
+            { "option": "True", "iscorrect": true },
+            { "option": "False", "iscorrect": false }
+        ]
+    }
+]
